@@ -1,0 +1,4 @@
+"Người điều khiển xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người: Chở người bệnh đi cấp cứu, Áp giải người có hành vi vi phạm pháp luật;Trẻ em dưới 14 tuổi."
+"Người điều khiển phương tiện vẫn được tiếp tục đi dù gặp đèn đỏ :1 Khi có hiệu lệnh của người điều khiển giao thông. 2 - Xe ưu tiên đang làm nhiệm vụ \n 3 - Có vạch kẻ kiểu mắt võng"
+"Được vượt đèn đỏ khi 1 Khi có hiệu lệnh của người điều khiển giao thông. 2 - Xe ưu tiên đang làm nhiệm vụ \n 3 - Có vạch kẻ kiểu mắt võng"
+"Vượt đèn đỏ là một hành vi bị nghiêm cấm. Người vi phạm sẽ bị xử phạt nếu như gặp phải lỗi này khi tham gia giao thông"
